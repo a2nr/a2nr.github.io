@@ -7,7 +7,7 @@ logo: site-logo.png
 url: https://a2nr.github.io
 
 # Jekyll configuration
-
+remote_theme: "mmistakes/so-simple-theme"
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
