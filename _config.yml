@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: My Note
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: Write what i am interest
 logo: site-logo.png
 url: https://a2nr.github.io
 
@@ -36,18 +36,18 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: Anggoro Dwi N.R.
   avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
+  email: anggoro.dwi.nr@gmail.com.com
+  disqus-shortname: anggoro_dwi
+  twitter: angdnr
+  facebook: mori3rti
+  github: a2nr
   stackexchange:
   linkedin:
-  instagram: mmistakes
+  instagram: ibn_hidayat
   flickr:
-  tumblr: mademistakes
+  tumblr: 
   pinterest:
   weibo:
   google:
