@@ -10,7 +10,7 @@ share: true
 ---
 
 
-![Berilmu Sebelum Beramal ](../images/photo_2017_11_28.jpg "Berilmu Sebelum Beramal")
+![Berilmu Sebelum Beramal ](/images/photo_2017_11_28.jpg)
 
 
 

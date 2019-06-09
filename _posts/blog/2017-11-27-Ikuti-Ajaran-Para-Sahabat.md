@@ -18,4 +18,4 @@ Bagaimanakah mereka memahami agama mereka? ;) temukan jawabanya di kajian ilmiah
 
 ---
 
-![Qs: At Taubah : 100 ](../images/photo_2017-11-27_22-41-26.jpg "Qs: At Taubah : 100")
+![Qs: At Taubah : 100 ](/images/photo_2017-11-27_22-41-26.jpg)

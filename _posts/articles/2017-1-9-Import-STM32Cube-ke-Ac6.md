@@ -40,16 +40,16 @@ berikut adalah link untuk langkah - langkah installasi atau link download applik
 	Sebelum masuk ke link nya harus log in dulu, jadi harus bikin akun) :stuck_out_tongue_winking_eye:
 
 ## Step by Step
-![Workspace](../images/170801/workspace_Eclipse.png)
+![Workspace](/images/170801/workspace_Eclipse.png)
 
 - Install Eclipse IDE for C/C++ Developers.
 - Install System Workbench Ac6 di Eclipse. Ikuti langkah langkah instalasinya di [sini](http://www.openstm32.org/Installing+System+Workbench+for+STM32+from+Eclipse?structure=Documentation)
 - Lakukan Generate Source dulu di [sini](https://mori3rti.github.io/blog/STM32-dengan-Ac6) dan pastikan didalam foldernya dengan membukanya. :thumbsup: 
-	![Tree Folder](../images/170801/Tree_SW4STM32.png)
+	![Tree Folder](/images/170801/Tree_SW4STM32.png)
 - kembali ke Eclipse nya. File >> Import >> Existing Projects into Workspace >> Next
-	![Import](../images/170801/Import_SW.png)
+	![Import](/images/170801/Import_SW.png)
 - Pilih [x] Select root directory >> Browse ... >> Pilih tempat Foldernya >> Project : [x] ... (Nama_foldermu / Select All) >>[ ] Copy projects into workspace (optional) >> Finish
-	![Import](../images/170801/Import_SW_1.png)
+	![Import](/images/170801/Import_SW_1.png)
     
 - Nanti akan muncul folder tree dieclipse
-    ![Tree](../images/170801/Tree_eclipse.png)
+    ![Tree](/images/170801/Tree_eclipse.png)
